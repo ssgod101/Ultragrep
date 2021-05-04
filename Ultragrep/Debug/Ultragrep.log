@@ -1,0 +1,21 @@
+﻿  GrepScannerC11.cpp
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepresult.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperc11.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepscannerc11.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GrepScannerWin32.cpp
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepresult.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepscannerwin32.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GrepSettings.cpp
+  UltraGrepperC11.cpp
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepresult.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperc11.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperc11.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  UltraGrepperWin32.cpp
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepresult.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperwin32.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperwin32.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  Ultragrep_main.cpp
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\grepresult.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mona3\desktop\college\c++ advanced topics level 6\ultragrep\ultragrep\ultragrepperc11.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Ultragrep.vcxproj -> C:\Users\mona3\Desktop\College\C++ Advanced Topics Level 6\Ultragrep\Debug\Ultragrep.exe
